@@ -1,0 +1,13 @@
+.pager li .active_link {
+
+background: lightgray !important;
+
+}
+
+
+.form-control.pwd {
+
+background: lightgray !important;
+width: 30%;
+
+}
